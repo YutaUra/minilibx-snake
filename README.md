@@ -4,6 +4,8 @@ MinilibX is a graphical library for 42 students.
 
 This is an example of MinilibX.
 
+![demo.png](https://github.com/YutaUra/minilibx-snake/blob/main/pictures/demo.png?raw=true)
+
 **Notion!** This program runs only MacOS.
 If you use Linux, use minilibx-linux instead.
 
